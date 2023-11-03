@@ -1,8 +1,8 @@
 # TiposDeHerencia
 Ejercicio sobre los tipos de herencia usando la metodología explicada en clase
-<hi>01 MAPPED SUPERCLASS</h1>
-Aunque en el programa tengamos la clase padre de la que heredan otras, esa clase padre base no se va a trasladar a la base de datos, con la anotación @MappedSuperClass indicamos que vamos a tener una herencia 
-Como se van a crear dos tablas diferentes por lo que no permiten consultas polimórficas, las dos tablas que heredan van a ser independientes 
+<h1>01 MAPPED SUPERCLASS</h1>
+<p>Aunque en el programa tengamos la clase padre de la que heredan otras, esa clase padre base no se va a trasladar a la base de datos, con la anotación @MappedSuperClass indicamos que vamos a tener una herencia 
+Como se van a crear dos tablas diferentes por lo que no permiten consultas polimórficas, las dos tablas que heredan van a ser independientes </p>
 
 
 <h1>03 JOINED</h1>
